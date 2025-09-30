@@ -1,7 +1,7 @@
 ---
 title: "Doulavie"
 subtitle: "Accompagnement bienveillant pour les personnes en fin de vie, endeuillées ou leur famille"
-image: site/static/img/phare.jpg   # Remplace par ton image de couverture
+image:/img/phare.jpg   # Remplace par ton image de couverture
 blurb:
     heading: "Pourquoi Doulavie ?"
     text: "Doulavie accompagne les personnes endeuillées ou en fin de vie avec douceur et bienveillance. Nous croyons en un soutien personnalisé et humain, respectueux du rythme et des besoins de chacun."
