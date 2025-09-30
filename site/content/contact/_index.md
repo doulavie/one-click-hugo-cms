@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "site/static/img/logo doulavie.png"
 contact_entries:
   - heading: Location
     text: "Île de France"
